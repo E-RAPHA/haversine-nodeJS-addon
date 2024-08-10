@@ -38,8 +38,7 @@ O resultado exibido no console mostrará a distância calculada em quilômetros 
 
 ## Sobre a Fórmula de Haversine
 
-
-
+![haversineFormulaa](https://github.com/user-attachments/assets/588194e2-f49e-4d3a-930b-c15082b5dcbc)
 
 
 
